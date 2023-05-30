@@ -1,4 +1,6 @@
 ## Hi there 👋
+This is the SDU Software Engineering bachelor 2. Semester Project. 
+You can go directly to our repository here (link yet to come)
 
 <!--
 
