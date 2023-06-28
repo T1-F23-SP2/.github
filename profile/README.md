@@ -1,6 +1,6 @@
 ## Hi there 👋
-This is the SDU Software Engineering bachelor 2. Semester Project. 
-You can go directly to our repository here (link yet to come)
+This is the SDU Software Engineering bachelor 2. Semester Project.
+You can go directly to our repository here [e-commerce-prototype](https://github.com/T1-F23-SP2/e-commerce-prototype)
 
 <!--
 
